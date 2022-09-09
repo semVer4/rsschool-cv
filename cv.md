@@ -28,3 +28,7 @@ working with customers, which I got by practicing myself on a freelance<br>layou
 Education: <br>
 ====
 Belarusian Grodno College of Engineering Technology and Design
+
+Language: <br>
+====
+English level - A1
