@@ -12,15 +12,11 @@ Frontend-разработчик (React) с практическим опытом
 Работаю с пользовательскими интерфейсами и клиентской логикой веб-приложений.
 Имею опыт смежных направлений: React Native, Telegram-боты и Web3.
 
-Visit [Google][] to search.
-See projects on [GitHub][].
-
-[Google]: https://www.google.com
-
 Опыт работы:
 ====
-Frontend Developer  
-Marlerino Group
+# Frontend Developer  
+# Marlerino Group
+[Marlerino Group]: https://marlerino.group
 05.10.2024 — 15.12.2025
 
 * Разрабатывал и поддерживал промо-сайты и лендинги под рекламные кампании
