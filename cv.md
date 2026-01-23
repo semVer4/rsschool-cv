@@ -14,8 +14,8 @@ Frontend-разработчик (React) с практическим опытом
 
 Опыт работы:
 ====
-# Frontend Developer  
-# Marlerino Group
+Frontend Developer  
+[Marlerino Group][]
 [Marlerino Group]: https://marlerino.group
 05.10.2024 — 15.12.2025
 
