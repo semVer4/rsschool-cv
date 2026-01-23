@@ -2,9 +2,9 @@
 
 *********
 Контакты:
-+375 (44) 7429364
-nikrozhko125@gmail.com
-GitHub: github.com/semVer4
+* +375 (44) 7429364
+* nikrozhko125@gmail.com
+* GitHub: github.com/semVer4
 
 О себе: <br>
 ====
