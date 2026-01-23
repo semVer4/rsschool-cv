@@ -1,34 +1,68 @@
-# Nikita Rozhko
+# Никита Рожко
 
 *********
-Contacts:
-* Discord: semVer4
-* E-mail: nikrozhko125@gmail.com
-* Telegram: semVer4
+Контакты:
++375 (44) 7429364
+nikrozhko125@gmail.com
+GitHub: github.com/semVer4
 
-About myself: <br>
+О себе: <br>
 ====
-I am studying in college as a programmer. I try myself in various fields of programming, <br>
-but I have more experience and desire to develop in web development. I want to get more<br>knowledge at 
-RS School and develop further in this direction.
+Frontend-разработчик (React) с практическим опытом в коммерческих и pet-проектах.
+Работаю с пользовательскими интерфейсами и клиентской логикой веб-приложений.
+Имею опыт смежных направлений: React Native, Telegram-боты и Web3.
 
-Code example:
+Опыт работы:
 ====
-```
-function multiply(a, b) {
-  return a * b
-}
-multiply(a, b)
-```
-Work experience: <br>
-====
-I made up small landing pages using html, css, javascript. I also have a little<br>experience 
-working with customers, which I got by practicing myself on a freelance<br>layout exchange.
+Frontend Developer  
+Marlerino Group
+05.10.2024 — 15.12.2025
 
-Education: <br>
-====
-Belarusian Grodno College of Engineering Technology and Design
+* Разрабатывал и поддерживал промо-сайты и лендинги под рекламные кампании
+* Адаптивная вёрстка (HTML, CSS, JS)
+* SEO-оптимизация
+* Оптимизация скорости загрузки и кроссбраузерная совместимость
+* Участвовал в разработке мобильного приложения на React Native (реализация UI и клиентской логики)
 
-Language: <br>
+Pet-проект: Онлайн-магазин (аналог Steam)
+Стек: React, JavaScript, Firebase, Telegram Bot API
+
+* Реализовал регистрацию и авторизацию пользователей
+* Каталог товаров с фильтрацией и поиском
+* Корзина и оформление покупок
+* Система отзывов и рейтингов (доступна только авторизованным пользователям)
+* Страница детального просмотра товара
+* Telegram-бот для покупок с использованием общей базы данных с веб-приложением
+* Архитектурное разделение клиентской логики и слоя данных
+
+Фриланс: 
+
+Веб-сайт для игрового сервера
+Стек: Reat, Node, PostgreSQL
+* Интеграция с API серверов (отображение онлайна, данных сервера)
+* Реализация регистрации и авторизации пользователей (SQL)
+* Взаимодействие клиентской и серверной части
+* Решение проблем с SSL при взаимодействии HTTPS-клиента и HTTP-сервера
+
+Так же неоднократно на заказ: 
+* Разработка клиентских веб-сайтов под требования заказчиков
+* Адаптивная вёрстка многостраничных сайтов (HTML, CSS)
+* Использование JavaScript для базовой интерактивности
+(слайдеры, формы, динамические элементы)
+* Кроссбраузерная и адаптивная верстка
+<br>
 ====
-English level - A1
+
+Образование: <br>
+====
+Среднее специальное
+
+Гродненский государственный колледж Техники технологий и дизайна
+
+Факультет: программное обеспечение информационных технологий
+Специализация: системное программирование
+
+Навыки: <br>
+===
+HTML, CSS (SCSS, Flex, Grid, БЭМ)
+JavaScript (React, Redux toolkit, Node, Next, nuxt), Git, Docker
