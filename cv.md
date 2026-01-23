@@ -12,6 +12,11 @@ Frontend-разработчик (React) с практическим опытом
 Работаю с пользовательскими интерфейсами и клиентской логикой веб-приложений.
 Имею опыт смежных направлений: React Native, Telegram-боты и Web3.
 
+Visit [Google][] to search.
+See projects on [GitHub][].
+
+[Google]: https://www.google.com
+
 Опыт работы:
 ====
 Frontend Developer  
